@@ -10,7 +10,6 @@ Hi , i'm Sumedh Gaikwad<br>BSc Computer Science Student | Aspiring Data Scientis
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Sumedh272&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Sumedh272&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sumedh272&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
